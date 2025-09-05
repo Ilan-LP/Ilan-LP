@@ -12,7 +12,4 @@
 
 <br clear="both">
 
-
-![Snake animation](https://github.com/Minilan69/Minilan69/blob/output/github-snake.svg)
-
 ###
