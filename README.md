@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I’m Minilan, a programming student</h1>
+<h1 align="center">Hi 👋! I’m ILan-LP, a programming student</h1>
 
 ###
 
