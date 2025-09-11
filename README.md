@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I’m ILan, a programming student</h1>
+<h1 align="center">Hi 👋! I’m Ilan, a programming student</h1>
 
 ###
 
