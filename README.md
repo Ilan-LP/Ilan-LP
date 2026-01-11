@@ -1,67 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ilan — Programming Student & Developer</h1>
 
-<p align="center">
-  Passionate about code, open-source, and solving problems with technology.<br>
-  Always learning new things, building projects, and collaborating with others!
-</p>
+# 💫 About Me:
+🔭 I’m currently working on IdentiQ<br>🌱 I’m currently learning artificial neural networks<br>💬 Ask me about my projects<br>📚 Recently explored cybersecurity<br>🎮 I spend my free time at The Finals<br>⚡ Fun fact i love vinegar<br>
 
-<p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ilan-LP?label=Follow&style=social">
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ilan-leroux-pinchinat-428290384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilanlp.pro@gmail.com) 
 
-## 🛠️ Skills & Tools
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ilan-LP&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ilan-LP&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilan-LP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/><br>Go</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br>Bash</td>
-  </tr>
-</table>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ilan-LP&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ilan-LP&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ilan-LP&icon=0&color=3)](https://visitcount.itsvg.in)
 
-## 📈 Most Used Languages
-
-<img alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilan-LP&theme=dark&hide_title=true&layout=compact&langs_count=4"/>
-
----
-
-## 🚀 GitHub Stats
-
-<img alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=Ilan-LP&show_icons=true&theme=dark&hide_title=true&include_all_commits=true&include_all_contributed=true&hide=issues"/>
-
----
-
-## 🏆 Trophies
-
-<img alt="trophy graph" src="https://github-profile-trophy.vercel.app?username=Ilan-LP&theme=dark_lover"/>
-
----
-
-## 📌 Pinned Projects
-
-<img alt="pin 1" src="https://github-readme-stats.vercel.app/api/pin/?username=simnJS&repo=epi-2030-bot&theme=dark"/>
-
----
-
-## 📬 Professional Contact
-
-<p>
-  <a href="mailto:ilanlp.pro@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.fiverr.com/s/Egxxjrq"><img src="https://img.shields.io/badge/Fiverr-brightgreen?style=flat-square&logo=fi&logoColor=white"/></a>
-  <a href="https://fr.linkedin.com/in/ilan-leroux-pinchinat-428290384"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPUAAAD1CAMAAAC/b0NXAAACFlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8YiqUCAAAAsXRSTlMAAQIEBQYHCgwNDg8QERITFBUWFxgZGhscHR4fICEkJSYnKSorLC0uMDE1Njc5Ojw9Pj9AQUJDREVGR0hLTVFSU1ZXXF9gYWJjZWZobG1ucHF0dXZ4ent+f4CBhIaHiouOj5CRk5eZmpudnp+go6SoqausrbKztLW2t7i5u7y9vsDBwsPExcbHyMnKy8/Q0dTV1tfZ2t/j5OXm5+jp6uvs7e7v8PHy8/T19vf4+fr7/f5TjB50AAAF1ElEQVR42u3d+1+TVRwH8IfYSCXYuKWVFyKKYEaQMC6maAbhlbIEBiYqYgWVZZaGXCLJ3MoGliEKG8Qtk1HnP4xpEsjYds7znHEun8/v+57n/Xr2jO2c7zkYxupsqTl5+TZ5lJsXT7gzDOWTVff1FFmZwDcHNiltzvSMkUgZ8WQqa7Y3RjaHM9ZoVxNd6CPR4itSEV03S6In1KAe+jSJnfOqoc8Toh+7gxD92IdJvGlWB11F4k+1KuhNv1Ko7zyriPocoUmnGmjXApV63qWEupfQpUcFdCUlmiwUKKC+RKsmH8mPfvE+tXokVXr1cUKfPdKrf2BQn5Ud/fwsg9qXJLm6hgFNJrMlV59kUZMSydWXmdT7JFffZlK3SK5mQhMP1FBDDbUS6kYt1bslV99kQf8j+yTSVyzqu2mSqxtY1Ndk/6XpYlG3ya62DzOoy6WfS2mjR//+jPTql//S7w1uMMwMKzEfXk6rVmLtw+jU7rMsnM1BHdc0jXoa9Kgq69dxd6WEs18VtJE8qGNfiuHw6tiDZDgGNUQvvsnjebZPG8qlfiaGObjfUDC5V6KiL2w31ExFz9pfQysMdeP+fDpSS8anKpvD2bK389Yfy9eqfWf3pBoaJCW7ZF+LJ5zG6tLsJANBEARBEARBEMR8nCzJeFpydYAlf74vuZqtBwnds4lNkjM9v6L8v7hdDmeS2uqk7NfrPvzWFxx/sKwFLBD09rUfK99mV1KdV9v10+Ta1zM33FWbZ1NKbS9u883HvqbQ0Kli+zqpC5ceuvhSuS3GBRa0UXRJ3fLkrot6gLZU1EXSlAM9dBuGyf1Lleug7qMtFaX1IfOgn+XifnzHLry6f83H+eg4YYzXLbranxK5UK2fmMiFHWKrJxyRyrj6iblMRT23ad3VM1tXF7F5QsR0BncIrCZlq2oU+YgVmakXWF3zZImGELEoHeKqn6i1oZNYl6tOUdWtK16/3UuszI2chKjpP3u7V3x2B4m1Gd2ZCPUZ6loDy15dFSBWJ7gzAeom6lr30pdefIhwyGgOf7WHulbAwRW9+Gw7BFQvbYmrIpwymCye+nGXvSvAS73677YA6kdHX24PEn6p56xuoS/2cF4h3ccRTWYL+aoZzl95OK/wBeEan42rehd9sfC8whHCOR6u6nL6Yv4Uo3CGtzpUJJh6IvUpH+EeX7JY6uncJpKAHOWodjNUm/47EerxTH7qUiJsmvmpsyaEVU/lclM7AuLe7I+5qZ0Cq8cydVT/f9laqUc28lIHBVaTOk7q9Hsiq6/z6lUYEFkdKuCk7hVZ/fj4D8vVfUKrh+06qkmxlupTkqgnlrfVWfQWF1k9621/e1dpVlp+Rdmx9oFxa4oWcVH3W2W+fvC5lb9r3vxs2oKyx7mou60xR9zvvbl5zHThPi7qVivMv721RvWMc2ZLj2fwUDdbgO7cuHb96jsmi7t5qD3m0e9G7RXLuWGu+gkx1YdiNAZu6DJV/qKQ6ljoxVw1U3/ILqD6cBwtv46fTQwwt1U8dUdc/d2vmlkh2i2cenVbQeSYWQ38QDT1dHyt/Oa+DHWKpj4S92aQfPafJNcEU3uT41Yb7I2Xd9PEUpdR7Pxhv9mT2UKpu6g2PH3CPE6pSOoH+VTq15gHqhZJTXnQqe0X1oEaBVJT3mrDeI91pCaB1NRn2r4UYh5JGPXCK7RqG+vep+/EUTOcVH2GcahecdS19Oq9jEN9L4x6Po9e/cIc21ghYdR+G73aPsR4s4VRX2HZj/6l7OpWFrVHdjXTWSQ1sqvrWNQlsqvfYFGzNjIKo2b6xxJOLdUpfh3VRo+W6j4t1f1aqru1VLdqqW7WUu2BGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqoodZB/S+GZFWNnT0dFQAAAABJRU5ErkJggg==&logoColor=white"/></a>
-</p>
-
-Feel free to reach out for professional inquiries, collaborations, or just to connect!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
