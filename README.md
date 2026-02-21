@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilan — Programming Student & Developer</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on IdentiQ<br>🌱 I’m currently learning artificial neural networks<br>💬 Ask me about my projects<br>📚 Recently explored cybersecurity<br>🎮 I spend my free time at The Finals<br>⚡ Fun fact i love vinegar<br>
+🔭 I’m currently working on MyEpiPlus<br>🌱 I’m currently learning artificial neural networks<br>💬 Ask me about my projects<br>📚 Recently explored cybersecurity<br>🎮 I spend my free time at The Finals<br>⚡ Fun fact i love vinegar<br>
 
 
 ## 🌐 Socials:
