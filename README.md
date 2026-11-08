@@ -1,20 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ilan — Programming Student & Developer</h1>
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on MyEpiPlus<br>🌱 I’m currently learning artificial neural networks<br>💬 Ask me about my projects<br>📚 Recently explored cybersecurity<br>🎮 I spend my free time at The Finals<br>⚡ Fun fact i love vinegar<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39ff14&height=200&section=header&text=MINILAN&fontColor=39ff14&fontSize=72&fontAlignY=35&animation=fadeIn&desc=dev%20%2F%20student%20%2F%20vinegar%20enjoyer&descAlignY=58&descSize=18" alt="Minilan banner" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=39FF14&center=true&vCenter=true&width=620&lines=%3E+Ilan+Leroux+Pinchinat%2C+aka+Minilan;%3E+Top+of+the+class+%40+Epitech+Lyon;%3E+Freelance+web+developer;%3E+Powered+by+vinegar" alt="Typing intro" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ilan-leroux-pinchinat-428290384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilanlp.pro@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ilan-LP&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ilan-LP&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilan-LP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### `$ whoami`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+```yaml
+name:       Ilan Leroux Pinchinat (aka Minilan)
+school:     Epitech Lyon, Bachelor 2, top of the class
+job:        freelance web developer (auto-entrepreneur)
+previously: intern @ IFP Energies nouvelles (IFPEN)
+also:
+  - instructor @ Junior Conseil TAKER
+  - AER (regional educational assistant) @ Epitech Lyon
+  - president @ BDE Wave
+  - member @ HoD
+  - R&D @ PoC Innovation
+  - Epitech ambassador
+sleep:      command not found
+```
 
----
+### `$ cat stack.txt`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,python&theme=dark" alt="React, Node.js, JavaScript, Python" />
+<br /><br />
+<img src="https://img.shields.io/badge/LLMs-yes%2C%20those%20too-39FF14?style=for-the-badge&labelColor=0d1117" alt="LLMs" />
+
+</div>
+
+### `$ ./d1oscur3s --status`
+
+```console
+[*] D1OSCUR3S, a small open source dev team (named after the Dioscures)
+[*] status ........ something is cooking
+[*] public repos .. 0 (for now)
+[*] ETA ........... soon(tm)
+[!] watch this space
+```
+
+### `$ cat /proc/fuel` (acidity: high)
+
+```text
+Things I run on
+ ├── node
+ ├── python
+ ├── vinegar
+ └── more vinegar
+
+Vinegar level   [████████████████████] 110%   OVERFLOW, working as intended
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/fun%20fact-I%20like%20vinegar-39FF14?style=for-the-badge&labelColor=0d1117" alt="Fun fact: I like vinegar" />
+
+</div>
+
+### `$ git log --streak`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Ilan-LP&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&stroke=39FF14" alt="GitHub streak for Ilan-LP" />
+
+</div>
+
+### `$ ping minilan`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ilan-lp"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn" /></a>
+<a href="mailto:ilanlp.pro@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,100:0d1117&height=120&section=footer" alt="footer" width="100%" />
+
+</div>
