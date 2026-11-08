@@ -27,7 +27,7 @@ sleep:      command not found
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,js,python&theme=dark" alt="React, Node.js, JavaScript, Python" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts,python&theme=dark" alt="React, Node.js, TypeScript, Python" />
 <br /><br />
 <img src="https://img.shields.io/badge/LLMs-yes%2C%20those%20too-AD7CF4?style=for-the-badge&labelColor=6241B7" alt="LLMs" />
 
